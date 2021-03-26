@@ -1,0 +1,24 @@
+{
+    "id": "1847B959",
+    "path": "~/Benslab/METHODMAN/emosync/DYNECOM/R/prepro_ECGedf.R",
+    "project_path": "R/prepro_ECGedf.R",
+    "type": "r_source",
+    "hash": "3267244238",
+    "contents": "",
+    "dirty": false,
+    "created": 1571315347873.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "cursorPosition": "43,39",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1601991930,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1601991930936,
+    "read_only": false,
+    "read_only_alternatives": []
+}
